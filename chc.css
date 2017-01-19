@@ -1,0 +1,44 @@
+* {margin:0 auto;
+  padding:0 auto;
+   }
+
+
+body {
+    background-color: #367D9B;
+    color: white;
+    text-align: center;
+}
+
+#chc { 
+  height: 400px;
+
+}
+
+div {
+  background-color:black;
+  align-content:center; 
+  margin:0 auto;
+  width:900px;
+}
+
+h1 {
+  font-family:"Cinzel";
+  font-size: 100px;
+   }
+
+h2 { padding: 20px;
+  text-align: justify;
+  font-family:"Quattrocento";
+ }
+
+
+header {
+    text-align: center;
+    background: url("sherlock2.jpg");
+    border: 0;
+    padding: 0;
+    margin: 0;
+      }
+
+.back-button, .forward-button {font-size: 30px;}
+
